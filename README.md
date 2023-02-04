@@ -23,10 +23,6 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-                                                        Provided Figma Design :
-
-
-<img src="https://user-images.githubusercontent.com/43911685/216789230-df8c6414-37d2-4f74-b13b-ec8194d2bc29.png" width="240" height="534">
 
 
 
