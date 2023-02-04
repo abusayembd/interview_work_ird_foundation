@@ -27,5 +27,6 @@ samples, guidance on mobile development, and a full API reference.
 
 
                                                                My Output:
-
+<p align="center">
 <img src="https://user-images.githubusercontent.com/43911685/216789106-5c2f3311-0d7b-4821-b5fc-fe8c9cbbc060.png" width="240" height="534">
+</p>
