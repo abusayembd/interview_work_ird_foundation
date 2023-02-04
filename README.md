@@ -26,10 +26,10 @@ samples, guidance on mobile development, and a full API reference.
                                                         Provided Figma Design :
 
 
-<img src="https://user-images.githubusercontent.com/43911685/216789230-df8c6414-37d2-4f74-b13b-ec8194d2bc29.png" width="360" height="800">
+<img src="https://user-images.githubusercontent.com/43911685/216789230-df8c6414-37d2-4f74-b13b-ec8194d2bc29.png" width="180" height="400">
 
 
 
                                                                My Output:
 
-<img src="https://user-images.githubusercontent.com/43911685/216789106-5c2f3311-0d7b-4821-b5fc-fe8c9cbbc060.png" width="360" height="800">
+<img src="https://user-images.githubusercontent.com/43911685/216789106-5c2f3311-0d7b-4821-b5fc-fe8c9cbbc060.png" width="180" height="400">
