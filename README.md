@@ -4,7 +4,15 @@ A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+This project is a starting point for a Flutter application.Settings
+
+
+    
+                
+    
+
+        
+          
 
 A few resources to get you started if this is your first Flutter project:
 
@@ -16,7 +24,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Provided Figma Design :
-<img src="https://user-images.githubusercontent.com/43911685/216789230-df8c6414-37d2-4f74-b13b-ec8194d2bc29.png" width="100" height="100">
+<img src="https://user-images.githubusercontent.com/43911685/216789230-df8c6414-37d2-4f74-b13b-ec8194d2bc29.png" width="360" height="800">
 
 
 
