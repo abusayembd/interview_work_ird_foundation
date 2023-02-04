@@ -16,9 +16,9 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 Provided Figma Design :
-![Inter View work figma](https://user-images.githubusercontent.com/43911685/216789230-df8c6414-37d2-4f74-b13b-ec8194d2bc29.png)
+![Inter View work figma](https://user-images.githubusercontent.com/43911685/216789230-df8c6414-37d2-4f74-b13b-ec8194d2bc29.png | width=100)
 
 
 
 Output:
-![Simulator Screen Shot - iPhone 13 - 2023-02-04 at 17 08 05](https://user-images.githubusercontent.com/43911685/216789106-5c2f3311-0d7b-4821-b5fc-fe8c9cbbc060.png)
+![Simulator Screen Shot - iPhone 13 - 2023-02-04 at 17 08 05](https://user-images.githubusercontent.com/43911685/216789106-5c2f3311-0d7b-4821-b5fc-fe8c9cbbc060.png | width=100))
