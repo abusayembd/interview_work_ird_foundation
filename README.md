@@ -14,3 +14,11 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+Provided Figma Design :
+
+
+
+
+Output:
+![Simulator Screen Shot - iPhone 13 - 2023-02-04 at 17 08 05](https://user-images.githubusercontent.com/43911685/216789106-5c2f3311-0d7b-4821-b5fc-fe8c9cbbc060.png)
